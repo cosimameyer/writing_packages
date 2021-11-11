@@ -12,7 +12,7 @@ R is a great resource for data management, statistics, analysis, and visualizati
 
 You can access the material here:
 
-| [Slides](https://cosimameyer.rbind.io/slides/correlcon2021/talk#1) | [Code](https://github.com/cosimameyer/nlp-rladies-tunis/tree/main/code) | 
+| [Slides](https://cosimameyer.rbind.io/slides/correlcon2021/talk#1) | [Package example](https://github.com/cosimameyer/writing_packages/tree/main/correlcalc) | 
 |--------|----------|
 
 ## Overview repository
@@ -33,7 +33,7 @@ This repository contains:
 
 ## More resources
 
-- [Example of a package (`overviewR`)](https://github.com/cosimameyer/overviewR)
+- [Full working package example (`overviewR`)](https://github.com/cosimameyer/overviewR)
 - [How to write your own R package and publish it on CRAN (Cosima Meyer and Dennis Hammerschmidt)](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/r-package/)
 - [R Packages (Hadley Wickham)](http://r-pkgs.had.co.nz/)
 - [How to develop good R packages (for open science) (Maëlle Salmon)](https://masalmon.eu/2017/12/11/goodrpackages/)
