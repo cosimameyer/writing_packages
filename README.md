@@ -1,5 +1,7 @@
 # Big things come in small packages - Tips and tricks for your own R package
 
+![](https://cosimameyer.rbind.io/talk/r-package/featured%2022.41.41_hu169a416274258688cd88166c5eafa828_701812_720x0_resize_lanczos_2.png)
+
 📍 CorrelCon 2021
 
 ## About the talk
@@ -10,8 +12,8 @@ R is a great resource for data management, statistics, analysis, and visualizati
 
 You can access the material here:
 
-| [Slides](https://cosimameyer.rbind.io/slides/nlp-rladies-tunis/talk#1) | [Code](https://github.com/cosimameyer/nlp-rladies-tunis/tree/main/code) | [**Recording**]() |
-|--------|----------|----------|
+| [Slides](https://cosimameyer.rbind.io/slides/correlcon2021/talk#1) | [Code](https://github.com/cosimameyer/nlp-rladies-tunis/tree/main/code) | 
+|--------|----------|
 
 ## Overview repository
 
@@ -39,7 +41,5 @@ This repository contains:
 - [Writing an R package from scratch (Hilary Parker)](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
 - [Your first R package in 1 hour (Shannon Pileggi)](https://www.pipinghotdata.com/talks/2020-10-25-your-first-r-package-in-1-hour/)
 - [R package primer (Karl Broman)](https://kbroman.org/pkg_primer/)
-]]
 - [Checklist for R Package (Re-)Submissions on CRAN (Saskia Otto)](https://www.marinedatascience.co/blog/2020/01/09/checklist-for-r-package-re-submissions-on-cran/)
 - [Continuous integration with GitHub Actions (Dean Attali )](https://deanattali.com/blog/migrating-travis-to-github/)
-]]
