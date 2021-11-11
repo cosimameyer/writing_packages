@@ -10,7 +10,7 @@ R is a great resource for data management, statistics, analysis, and visualizati
 
 You can access the material here:
 
-| [Slides](https://cosimameyer.rbind.io/slides/nlp-rladies-tunis/talk#1) | [Code (raw)](https://github.com/cosimameyer/nlp-rladies-tunis/tree/main/code) | [**Recording**](https://www.youtube.com/watch?v=NYuTFy_JRLA) |
+| [Slides](https://cosimameyer.rbind.io/slides/nlp-rladies-tunis/talk#1) | [Code](https://github.com/cosimameyer/nlp-rladies-tunis/tree/main/code) | [**Recording**]() |
 |--------|----------|----------|
 
 ## Overview repository
