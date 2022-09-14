@@ -12,7 +12,7 @@ R is a great resource for data management, statistics, analysis, and visualizati
 
 You can access the material here:
 
-| [Slides](https://cosimameyer.rbind.io/slides/correlcon2021/talk#1) | [Package example](https://github.com/cosimameyer/writing_packages/tree/main/correlcalc) | 
+| [Slides](hhttps://cosimameyer.com/slides/correlcon2021/talk.html#1) | [Package example](https://github.com/cosimameyer/writing_packages/tree/main/correlcalc) | 
 |--------|----------|
 
 ## Overview repository
